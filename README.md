@@ -20,15 +20,15 @@ I am using this repository to practice concepts, implement data structures from 
   * [x] Linked List Queue
   * [x] Circular Queue
 
-* [ ] Stacks
+* [x] Stacks
 
-* [ ] Recursion
+* [x] Recursion
 
 * [ ] Searching
 
 * [ ] Sorting
 
-* [ ] Trees
+* [x] Trees
 
 * [ ] Hashing
 
