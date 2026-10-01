@@ -1,7 +1,4 @@
- /***Due date: Friday, 2 October 2026, 5:00 AM
- Maximum number of files: 1
-Type of work:  Individual work
-Implement Heap Sort using a Max Heap. Build the heap, repeatedly move the maximum element to the end of the unsorted region, reduce the heap size, and heapify.
+ /***Implement Heap Sort using a Max Heap. Build the heap, repeatedly move the maximum element to the end of the unsorted region, reduce the heap size, and heapify.
 
 Required Methods
 ·        buildMaxHeap(int[] arr)
